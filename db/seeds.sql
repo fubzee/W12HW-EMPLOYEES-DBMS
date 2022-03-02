@@ -42,8 +42,8 @@ VALUES
 ("Snow","White",1,4),
 ("Pitch","Black",1,4),
 ("Rose","Red",2,4),
-("Money", "Baggs",3,4),
-("Legal","Eagle",6,5),
+("Money", "Baggs",3,null),
+("Legal","Eagle",6,null),
 ("Trust","Me",5,5),
 ("Dirty","Work",4,5),
 ("Trying","Hard",4,5),
@@ -57,7 +57,7 @@ VALUES
 ("Unrealistic","Dreamer",11,19),
 ("Broken","Dreams",11,19),
 ("Hard","Core",12,19),
-("Data","Mann",13,19),
+("Data","Mann",13,null),
 ("Concept","Builder",14,38),
 ("Story","Teller",15,38),
 ("Fluffy","Talk",16,38),
@@ -76,4 +76,4 @@ VALUES
 ("Lazy","Bum",23,37),
 ("Dark","Night",24,38),
 ("Day","Break",24,38),
-("Horse","Whipper",25,38);
+("Horse","Whipper",25,null);
