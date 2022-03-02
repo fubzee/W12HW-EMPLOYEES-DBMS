@@ -67,7 +67,7 @@ This application requires the following NPM packages:
 - inquirer
 - console.table
 - mysql2
-- dotenv (has been excluded from the GIR repo for security reasons)
+- dotenv (has been excluded from the GIT repo for security reasons)
 
 
 ## Contributing
@@ -79,7 +79,7 @@ This application requires the following NPM packages:
 
 ## Testing
 
-There no test scripts.  All functional testing has been completed and SQL queries are working (please refer to the links above to see tha application functioning)
+There no test scripts.  All functional testing has been completed and SQL queries are working (please refer to the links above to see the application functioning)
    
 
 ## Git Profile  :link:
