@@ -6,19 +6,19 @@ Git Repo
 https://github.com/fubzee/W12HW-EMPLOYEES-DBMS
 
 W12HW - SQL 
-https://watch.screencastify.com/v/tYp91cbNNKBiIqQ3WD63
+https://drive.google.com/file/d/1ayw7g45jc-gDkqB2pf_e3v7QTMMgVX4F/view
 
 W12HW - Query Data
-https://watch.screencastify.com/v/6ScgzgZw4Nbo9unH2txm
+https://drive.google.com/file/d/1sIKUVfbsATkAAi_PhjJi6JXXnr8UNz1K/view
 
 W12HW - Add Data
-https://watch.screencastify.com/v/aCp78SLvLU7IWQtoroDv
+https://drive.google.com/file/d/1sIKUVfbsATkAAi_PhjJi6JXXnr8UNz1K/view
 
 W12HW - Modify Data
-https://watch.screencastify.com/v/rLdMJ8sYzd2uP616oZcC
+https://drive.google.com/file/d/1e2W6VZU7GISqMyj1hcVukja4VIJ_5Izr/view
 
 W12HW - Delete Data
-https://watch.screencastify.com/v/Lle5cPyCjcyJ2UcX8sE1
+https://drive.google.com/file/d/1mtd4cqythMr2dkUwsbpX8Kp1NCEJuZOI/view
 
 ## Table of Contents: 
 
